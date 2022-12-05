@@ -48,7 +48,6 @@ namespace E_WalletApp.CORE.Service
             List<Claim> myclaims = new List<Claim>
             {
                 new Claim(ClaimTypes.Email, email),
-                
             };
             var token = new JwtSecurityToken(
                 claims: myclaims,
