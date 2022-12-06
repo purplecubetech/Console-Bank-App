@@ -1,0 +1,71 @@
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/bin/Debug/net5.0/BankAppCore.deps.json
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/bin/Debug/net5.0/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/bin/Debug/net5.0/ref/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/bin/Debug/net5.0/BankAppCore.pdb
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/obj/Debug/net5.0/BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/obj/Debug/net5.0/BankAppCore.AssemblyInfoInputs.cache
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/obj/Debug/net5.0/BankAppCore.AssemblyInfo.cs
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/obj/Debug/net5.0/BankAppCore.csproj.CoreCompileInputs.cache
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/obj/Debug/net5.0/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/obj/Debug/net5.0/ref/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppCore/obj/Debug/net5.0/BankAppCore.pdb
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/bin/Debug/net5.0/BankAppCore.deps.json
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/bin/Debug/net5.0/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/bin/Debug/net5.0/ref/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/bin/Debug/net5.0/BankAppCore.pdb
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.csproj.AssemblyReference.cache
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.AssemblyInfoInputs.cache
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.AssemblyInfo.cs
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.csproj.CoreCompileInputs.cache
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/ref/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.pdb
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/bin/Debug/net5.0/BankAppCore.deps.json
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/bin/Debug/net5.0/BankAppCore.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/bin/Debug/net5.0/ref/BankAppCore.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/bin/Debug/net5.0/BankAppCore.pdb
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.csproj.AssemblyReference.cache
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.AssemblyInfoInputs.cache
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.AssemblyInfo.cs
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/ref/BankAppCore.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppCore/obj/Debug/net5.0/BankAppCore.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\bin\Debug\net5.0\BankAppCore.deps.json
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.AssemblyReference.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\obj\Debug\net5.0\BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfo.cs
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\obj\Debug\net5.0\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\obj\Debug\net5.0\refint\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\obj\Debug\net5.0\BankAppCore.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppCore\obj\Debug\net5.0\ref\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\bin\Debug\net5.0\BankAppCore.deps.json
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.AssemblyReference.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\obj\Debug\net5.0\BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfo.cs
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\obj\Debug\net5.0\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\obj\Debug\net5.0\refint\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\obj\Debug\net5.0\BankAppCore.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppCore\obj\Debug\net5.0\ref\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\bin\Debug\net5.0\BankAppCore.deps.json
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.AssemblyReference.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\obj\Debug\net5.0\BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfo.cs
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\obj\Debug\net5.0\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\obj\Debug\net5.0\refint\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\obj\Debug\net5.0\BankAppCore.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppCore\obj\Debug\net5.0\ref\BankAppCore.dll

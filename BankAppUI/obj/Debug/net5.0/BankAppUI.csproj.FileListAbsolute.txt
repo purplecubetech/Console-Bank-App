@@ -1,0 +1,305 @@
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/BankAppUI.exe
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/BankAppUI.deps.json
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/BankAppUI.runtimeconfig.json
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/BankAppUI.runtimeconfig.dev.json
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/BankAppUI.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/ref/BankAppUI.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/BankAppUI.pdb
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Hosting.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Console.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Debug.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.EventLog.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.EventSource.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/System.Diagnostics.EventLog.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/System.Text.Encodings.Web.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/System.Text.Json.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.Messages.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/bin/Debug/net5.0/BankAppCore.pdb
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/obj/Debug/net5.0/BankAppUI.csproj.AssemblyReference.cache
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/obj/Debug/net5.0/BankAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/obj/Debug/net5.0/BankAppUI.AssemblyInfoInputs.cache
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/obj/Debug/net5.0/BankAppUI.AssemblyInfo.cs
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/obj/Debug/net5.0/BankAppUI.csproj.CoreCompileInputs.cache
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/obj/Debug/net5.0/BankAppUI.csproj.CopyComplete
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/obj/Debug/net5.0/BankAppUI.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/obj/Debug/net5.0/ref/BankAppUI.dll
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/obj/Debug/net5.0/BankAppUI.pdb
+C:/Users/craft/source/repos/SQ010/BankAppUI/BankAppUI/obj/Debug/net5.0/BankAppUI.genruntimeconfig.cache
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.exe
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.deps.json
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.runtimeconfig.json
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.runtimeconfig.dev.json
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/ref/BankAppUI.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.pdb
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Hosting.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Console.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Debug.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.EventLog.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.EventSource.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/System.Diagnostics.EventLog.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/System.Text.Encodings.Web.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/System.Text.Json.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.Messages.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppCore.pdb
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.csproj.AssemblyReference.cache
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.AssemblyInfoInputs.cache
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.AssemblyInfo.cs
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.csproj.CoreCompileInputs.cache
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.csproj.CopyComplete
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/ref/BankAppUI.dll
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.pdb
+C:/Users/craft/source/repos/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.genruntimeconfig.cache
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.deps.json
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.runtimeconfig.json
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.runtimeconfig.dev.json
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/ref/BankAppUI.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppUI.pdb
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Hosting.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Console.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Debug.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.EventLog.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Logging.EventSource.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/System.Diagnostics.EventLog.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/System.Text.Encodings.Web.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/System.Text.Json.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.Messages.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppCore.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/bin/Debug/net5.0/BankAppCore.pdb
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.csproj.AssemblyReference.cache
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.AssemblyInfoInputs.cache
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.AssemblyInfo.cs
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.csproj.CopyComplete
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/ref/BankAppUI.dll
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.pdb
+/Users/mac/Documents/SQ010/Task Three/BankAppUI/obj/Debug/net5.0/BankAppUI.genruntimeconfig.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\BankAppUI.exe
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\BankAppUI.deps.json
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\BankAppUI.runtimeconfig.json
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\BankAppUI.runtimeconfig.dev.json
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\BankAppUI.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\BankAppUI.csproj.AssemblyReference.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\BankAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\BankAppUI.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\BankAppUI.AssemblyInfo.cs
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\BankAppUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\BankAppUI.csproj.CopyComplete
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\refint\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\BankAppUI.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\BankAppUI.genruntimeconfig.cache
+C:\Users\HP\Dropbox\PC\Desktop\Repos\Task Three\Task Three\BankAppUI\obj\Debug\net5.0\ref\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\BankAppUI.exe
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\BankAppUI.deps.json
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\BankAppUI.runtimeconfig.json
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\BankAppUI.runtimeconfig.dev.json
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\BankAppUI.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\BankAppUI.csproj.AssemblyReference.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\BankAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\BankAppUI.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\BankAppUI.AssemblyInfo.cs
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\BankAppUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\BankAppUI.csproj.CopyComplete
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\refint\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\BankAppUI.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\BankAppUI.genruntimeconfig.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\BankAppUI\obj\Debug\net5.0\ref\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\BankAppUI.exe
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\BankAppUI.deps.json
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\BankAppUI.runtimeconfig.json
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\BankAppUI.runtimeconfig.dev.json
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\BankAppUI.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\BankAppUI.csproj.AssemblyReference.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\BankAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\BankAppUI.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\BankAppUI.AssemblyInfo.cs
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\BankAppUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\BankAppUI.csproj.CopyComplete
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\refint\BankAppUI.dll
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\BankAppUI.pdb
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\BankAppUI.genruntimeconfig.cache
+C:\Users\HP\Dropbox\PC\Desktop\Console Bank App\Console-Bank-App\BankAppUI\obj\Debug\net5.0\ref\BankAppUI.dll
